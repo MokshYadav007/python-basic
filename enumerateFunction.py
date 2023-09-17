@@ -1,5 +1,5 @@
 l1 = ["Batman", "Hulk", "Constantine", "Thor"]
-
+ 
 #i = 1
 #for item in l1:
 #    if i%2!= 0:
