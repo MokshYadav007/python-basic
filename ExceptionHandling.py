@@ -8,6 +8,7 @@ except Exception as e:
 
 else:
     print("this will only run if except")
+    
 finally:
     print("run this anyway")
     #f.close()
