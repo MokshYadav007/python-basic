@@ -6,6 +6,7 @@ d2 = {"Batman":"Joker", "Superman":"ZOD", "Flash":"Reverse Flash","Lucifer":"GOD
 d2["Nightwing"] = "Deathshot"
 d2["Constantine"] = "Anyone"
 #for deleting
+
 del d2["Nightwing"]
 #print(d2.get("Batman"))
 #d2.update({"SpiderMan":"Goblin"})
