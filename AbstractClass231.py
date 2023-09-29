@@ -5,7 +5,7 @@ class Shape(ABC):
     def printarea(self):
         return 0
 
-class Rectangle(Shape):
+class Rectangle(Shape):  
     type = "Rectangle"
     sides = 4
     def __init__(self):
